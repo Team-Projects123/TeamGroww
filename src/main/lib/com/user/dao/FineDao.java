@@ -11,7 +11,7 @@ import com.user.model.Fines;
 
 public class FineDao {
 
-	private String jdbcURL = "jdbc:mysql://localhost:30006/Library";
+	private String jdbcURL = "jdbc:mysql://localhost:3306/Library";
 	private String jdbcUserName = "root";
 	private String jdbcPassword = "root";
 
