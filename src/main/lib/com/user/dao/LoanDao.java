@@ -10,7 +10,7 @@ import com.user.model.Loans;
 
 public class LoanDao {
 
-	private String jdbcURL = "jdbc:mysql://localhost:30006/Library";
+	private String jdbcURL = "jdbc:mysql://localhost:3306/Library";
 	private String jdbcUserName = "root";
 	private String jdbcPassword = "root";
 
@@ -33,7 +33,17 @@ public class LoanDao {
 			Class.forName("com.mysql.cj.jdbc.Driver");
 			connection=DriverManager.getConnection(jdbcURL, jdbcUserName, jdbcPassword);
 		}
-		catch(SQLException | ClassNotFoundException e) {
+		catch(SQLException e)
+		{
+			e.printStackTrace();
+		}
+		catch(ClassNotFoundException e)
+		{
+			e.printStackTrace();
+		}
+		
+		catch(Exception e)
+		{
 			e.printStackTrace();
 		}
 		return connection;
