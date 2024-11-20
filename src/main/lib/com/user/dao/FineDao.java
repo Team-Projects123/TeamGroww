@@ -34,7 +34,17 @@ public class FineDao {
 			Class.forName("com.mysql.cj.jdbc.Driver");
 			connection=DriverManager.getConnection(jdbcURL, jdbcUserName, jdbcPassword);
 		}
-		catch(SQLException | ClassNotFoundException e) {
+		catch(SQLException e)
+		{
+			e.printStackTrace();
+		}
+		catch(ClassNotFoundException e)
+		{
+			e.printStackTrace();
+		}
+		
+		catch(Exception e)
+		{
 			e.printStackTrace();
 		}
 		return connection;
