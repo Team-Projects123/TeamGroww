@@ -9,8 +9,8 @@
 	<name>lms Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<properties>
-		<maven.compiler.source>l1</maven.compiler.source>
-		<maven.compiler.target>l1</maven.compiler.target>
+		<maven.compiler.source>23</maven.compiler.source>
+		<maven.compiler.target>23</maven.compiler.target>
 	</properties>
 	<dependencies>
 		<dependency>
