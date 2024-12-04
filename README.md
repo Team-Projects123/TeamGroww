@@ -3,3 +3,4 @@ We created Maven project with dependencies.<br>
 We created database Library in schema.sql file which contains sql tables for users, books, loans, fines, reservations, systemlogs is created.<br>
 We created dao and model classes for each table of above database.
 
+Now we add login and register templates with css and js templates in web app folder.
