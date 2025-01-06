@@ -82,8 +82,6 @@ As a user (non-librarian), you can:
 ![Screenshot 2025-01-06 190534](https://github.com/user-attachments/assets/0b444585-2ab6-4830-a9bf-35011caa2f4a)
 ![Screenshot 2025-01-06 190559](https://github.com/user-attachments/assets/c75081c8-d013-44ca-b103-c706e391f5f3)
 ![Screenshot 2025-01-06 190614](https://github.com/user-attachments/assets/0932b579-79ae-4f49-88c9-250cf5345e13)
-![Screenshot 2025-01-06 190629](https://github.com/user-attachments/assets/88de2891-2882-4a97-984c-e205a192e266)
-![Screenshot 2025-01-06 190646](https://github.com/user-attachments/assets/1996dc5d-11fb-4ea0-8c2e-53a31fb95d7b)
 ![Screenshot 2025-01-06 190705](https://github.com/user-attachments/assets/3ea8b29f-2cb5-4802-9741-53dbc8e9b12e)
 ![Screenshot 2025-01-06 190725](https://github.com/user-attachments/assets/a6ddbaa8-6e21-4c7b-8d40-151838127286)
 ![Screenshot 2025-01-06 190749](https://github.com/user-attachments/assets/8b0cd806-d960-4342-8708-58382019bafc)
