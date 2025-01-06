@@ -63,7 +63,7 @@ CREATE TABLE reservations (
     FOREIGN KEY (user_id) REFERENCES Users(user_id),
     FOREIGN KEY (book_id) REFERENCES Books(book_id)
 );
-desc users;
+desc users1;
 desc loans;
 desc books;
 desc fines;
@@ -72,7 +72,7 @@ desc systemlogs;
 
 
 
-select * from users;
+select * from users1;
 select * from books;
 select * from loans;
 select * from fines;
