@@ -1,0 +1,43 @@
+/* Custom CSS for the Loan Management Page */
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #007bff;
+    color: white;
+}
+
+h1 {
+    margin: 0;
+    font-size: 24px;
+}
+
+.nav {
+    background-color: #f8f9fa;
+}
+
+.nav-link {
+    color: #007bff;
+}
+
+.nav-link:hover {
+    color: #0056b3;
+}
+
+.container {
+    margin-top: 30px;
+}
+
+form .form-label {
+    font-weight: bold;
+}
+
+button {
+    margin-top: 20px;
+}
+
+.alert {
+    margin-top: 20px;
+}

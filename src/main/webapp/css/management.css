@@ -1,0 +1,35 @@
+/* book-management.css */
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #007bff;
+    color: white;
+}
+
+nav {
+    background-color: #f8f9fa;
+    border-bottom: 1px solid #ddd;
+}
+
+nav .nav-link {
+    color: #007bff;
+}
+
+nav .nav-link:hover {
+    color: #0056b3;
+}
+
+.container {
+    max-width: 800px;
+    margin-top: 20px;
+}
+
+h2 {
+    color: #333;
+}
+
+.alert {
+    margin-top: 20px;
+}
