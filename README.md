@@ -107,10 +107,4 @@ As a user (non-librarian), you can:
 
 
 
-## License
-
-This project is licensed under the MIT License.
-
 ---
-
-This README provides an overview of the LMS system, its features, and instructions on installation and usage. It should guide both developers and users on how to interact with the system effectively.
