@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Library Registration</title>
     <!-- Bootstrap CSS -->
+     <link rel="stylesheet" href="register.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
         body {
@@ -34,6 +35,8 @@
                             User user = new User();
                             user.setName(name);
                             user.setEmail(email);
+                            user.setPhone(phone);
+                            user.setAddress(address);
                             user.setRole(role);
                             user.setPassword(password);
 
@@ -54,7 +57,7 @@
                     e.printStackTrace();
                 }
             %>
-            <form id="registerForm" method="post" onsubmit="return validateForm()">
+            <form action="register" id="registerForm" method="post" onsubmit="return validateForm()">
                 <div id="error-message" class="alert alert-danger d-none">One or more fields are empty. Please fill out all fields.</div>
                 <div class="mb-3">
                     <label for="name" class="form-label">Full Name</label>
