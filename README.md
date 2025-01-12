@@ -86,8 +86,10 @@ As a user (non-librarian), you can:
 ![Screenshot 2025-01-06 190725](https://github.com/user-attachments/assets/a6ddbaa8-6e21-4c7b-8d40-151838127286)
 ![Screenshot 2025-01-06 190749](https://github.com/user-attachments/assets/8b0cd806-d960-4342-8708-58382019bafc)
 ![Screenshot 2025-01-06 190806](https://github.com/user-attachments/assets/8327320f-1029-4ff1-ba87-77a274c4c44a)
-![Screenshot 2025-01-06 190816](https://github.com/user-attachments/assets/eea12ef5-67be-4a9d-bfe5-00c01def9679)
-![Screenshot 2025-01-06 190855](https://github.com/user-attachments/assets/1dd86737-722a-4137-925e-1202c7884e2c)
+![Screenshot 2025-01-13 001726](https://github.com/user-attachments/assets/531a010f-233f-49fe-b84b-325291462328)
+![Screenshot 2025-01-13 001856](https://github.com/user-attachments/assets/8a306fdc-639b-461a-b722-223168dad1fb)
+![Screenshot 2025-01-13 001905](https://github.com/user-attachments/assets/9a993665-c5b6-4239-a08c-78de2d282059)
+
 ![Screenshot 2025-01-06 190911](https://github.com/user-attachments/assets/939e9727-272c-4ce8-a6c1-7679eb432351)
 ![Screenshot 2025-01-06 190925](https://github.com/user-attachments/assets/e260cd19-fad1-4ef2-984e-2d4bf544c20b)
 ![Screenshot 2025-01-06 190941](https://github.com/user-attachments/assets/2826a77e-cbfc-48fc-878c-3e227151fd28)
