@@ -25,4 +25,29 @@ document.addEventListener("DOMContentLoaded", function () {
             }
         });
     }
+
+    const form = document.querySelector("form");
+    const deleteButton = form.querySelector("button[name='delete']");
+
+    // Attach an event listener to the delete button
+    deleteButton.addEventListener("click", function (event) {
+        event.preventDefault(); // Prevent form submission
+
+        // Retrieve values from input fields
+        const userIdInput = document.getElementById('userId');
+    const messageElement = document.getElementById('message');
+
+    // Reset the message
+    messageElement.textContent = '';
+
+    // Check if userId is valid
+    if (!userIdInput.value || userIdInput.value <= 0) {
+        e.preventDefault();
+        messageElement.textContent = 'Please enter a valid User ID.';
+        messageElement.classList.add('text-danger');
+    }
+    });
+
+
 });
+
